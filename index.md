@@ -19,3 +19,5 @@ Abomey-Calavi and a master's degree in Information Technology (concentrations in
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/courses.md %}
+
+{% include_relative _includes/awards.md %}
