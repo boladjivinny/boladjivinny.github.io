@@ -1,0 +1,16 @@
+main:
+  - title: "Normes d'audit des Systemes d'Information"
+    term: Spring 2022
+    role: Lead Instructor
+    school: "Ecole Polytechnique de Ouagadougou"
+    link: "https://epo-edu.com/"
+  - title: "Introduction to Cognitive Robotics"
+    term: Spring 2021
+    role: Teaching Assistant
+    school: "Carnegie Mellon University Africa"
+    link: "https://africa.engineering.cmu.edu/"
+  - title: "Mathematical Foundations of Machine Learning"
+    term: Fall 2020
+    role: Teaching Assistant
+    school: "Carnegie Mellon University Africa"
+    link: "https://africa.engineering.cmu.edu/"

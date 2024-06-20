@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 2nd year Ph.D. student in the School of Electrical and Computer Engineering 
+at Georgia Tech. My research aims to provide recommendations for companies to 
+efficiently protect their digital assets. In the end, I expect this to be used
+by SMEs that cannot afford the services of overpriced security companies. I am
+co-advised by Prof. Fabian Monrose and Manos Antonakakis.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I received my Bachelor in Computer Science (concentration IT Security) from the
+Institut de Formation et de Recherche en Information (IFRI) at the University of
+Abomey-Calavi and a master's degree in Information Technology (concentrations in Machine Learning and Cybersecurity) from Carnegie Mellon University. 
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/courses.md %}

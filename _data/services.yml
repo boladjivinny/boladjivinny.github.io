@@ -1,0 +1,13 @@
+aec:
+  - conference: "Annual Computer Security Applications Conference"
+    conference_short: ACSAC
+    link: https://www.acsac.org/
+    years: 2023
+  - conference: "ACM Conference on Computer and Communications Security"
+    conference_short: CCS
+    link: https://www.sigsac.org/ccs/CCS2024/
+    years: 2024
+  - conference: "Network and Distributed System Security Symposium"
+    conference_short: NDSS
+    link: https://www.ndss-symposium.org/
+    years: 2024
