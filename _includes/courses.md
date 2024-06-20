@@ -2,4 +2,5 @@
 <ul>
 {% for class in site.data.main %}
     <li>{{ class.role }}, {{ class.title }} at <a href="{{ class.link }}">{{ class.school }}, {{ class.term }}</li>
+{% endfor %}
 </ul>
