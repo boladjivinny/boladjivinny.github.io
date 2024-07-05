@@ -4,15 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student in the School of Electrical and Computer Engineering 
-at Georgia Tech. My research aims to provide recommendations for companies to 
-efficiently protect their digital assets. In the end, I expect this to be used
-by SMEs that cannot afford the services of overpriced security companies. I am
-co-advised by Prof. Fabian Monrose and Manos Antonakakis.
+I am a second-year Ph.D. student in the [COEUS lab](https://astrolavos.gatech.edu/) at the [Georgia Institute of Technology](https://https://ece.gatech.edu/), where I am 
+fortunate enough to be advised by [Fabian Monrose](https://fabianmonrose.github.io/) and [Manos 
+Antonakakis](https://ece.gatech.edu/directory/manos-antonakakis). My research aims to help organizations 
+with limited cyber-security resources better protect their 
+digital assets. My current work tackles this problem from the 
+perspective of domain name abuse.
 
-I received my Bachelor in Computer Science (concentration IT Security) from the
-Institut de Formation et de Recherche en Information (IFRI) at the University of
-Abomey-Calavi and a master's degree in Information Technology (concentrations in Machine Learning and Cybersecurity) from Carnegie Mellon University. 
+Before joining Georgia Tech, I held a couple of research 
+assistantship positions. In 2021 and 2022, I worked under the 
+supervision of [Tegawendé F. Bissyandé](https://bissyande.github.io/) in the [TruX group](https://www.uni.lu/snt-en/research-groups/TruX/) and [Assane Gueye](https://www.cmu.edu/epp/cee-tp/assane-gueye.html) at [Cylab-Africa](https://www.africa.engineering.cmu.edu/research/cybersecurity/cylab/index.html). I owe my preparation for those opportunities to my 
+education at [Carnegie Mellon University](https://cmu.edu) for 
+my M.S. (2021) and the ["Institut de Formation et de Recherche 
+en Informatique"](https://ifri-uac.bj/) for my bachelor's (2019).
+
 
 {% include_relative _includes/publications.md %}
 
