@@ -12,11 +12,11 @@ digital assets. My current work tackles this problem from the
 perspective of domain name abuse.
 
 Before joining Georgia Tech, I held a couple of research 
-assistantship positions. In 2021 and 2022, I worked under the 
-supervision of [Tegawendé F. Bissyandé](https://bissyande.github.io/) in the [TruX group](https://www.uni.lu/snt-en/research-groups/TruX/) and [Assane Gueye](https://www.cmu.edu/epp/cee-tp/assane-gueye.html) at [Cylab-Africa](https://www.africa.engineering.cmu.edu/research/cybersecurity/cylab/index.html). I owe my preparation for those opportunities to my 
+assistantship positions. Respectively in 2021 and 2022, I worked under the 
+supervision of [Assane Gueye](https://www.cmu.edu/epp/cee-tp/assane-gueye.html) at [Cylab-Africa](https://www.africa.engineering.cmu.edu/research/cybersecurity/cylab/index.html) in Rwanda, and [Tegawendé F. Bissyandé](https://bissyande.github.io/) in the [TruX group](https://www.uni.lu/snt-en/research-groups/TruX/) in Luxembourg. I owe my preparation for those opportunities to my 
 education at [Carnegie Mellon University](https://cmu.edu) for 
-my M.S. (2021) and the ["Institut de Formation et de Recherche 
-en Informatique"](https://ifri-uac.bj/) for my bachelor's (2019).
+my masters of science in 2021 and at the ["Institut de Formation et de Recherche 
+en Informatique"](https://ifri-uac.bj/) for my bachelor's of science in 2018.
 
 
 {% include_relative _includes/publications.md %}
