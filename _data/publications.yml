@@ -1,4 +1,9 @@
 main:
+  - title: "The Guardians of Name Street: Studying the Defensive Registration Practices of the Fortune 500"
+    authors: <strong>Boladji Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Michael Bailey, Fabian Monrose
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium, 2025 (to appear).
+    pdf: https://orbilu.uni.lu/bitstream/10993/54308/1/Cryptojacking.pdf
   - title: "The Devil is in the Details: Unwrapping the Cryptojacking Malware Ecosystem on Android"
     authors: <strong>Boladji Vinny Adjibi</strong>, Fatou N'diaye Mbodji, Tegawendé F. Bissyandé, Kevin Allix, Jacques Klein
     conference_short: SCAM

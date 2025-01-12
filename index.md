@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Ph.D. student in the [COEUS lab](https://astrolavos.gatech.edu/) at the [Georgia Institute of Technology](https://https://ece.gatech.edu/), where I am 
+I am a third-year Ph.D. student in the [COEUS lab](https://astrolavos.gatech.edu/) at the [Georgia Institute of Technology](https://https://ece.gatech.edu/), where I am 
 fortunate enough to be advised by [Fabian Monrose](https://fabianmonrose.github.io/) and [Manos 
 Antonakakis](https://ece.gatech.edu/directory/manos-antonakakis). My research aims to help organizations 
 with limited cyber-security resources better protect their 

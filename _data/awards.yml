@@ -1,5 +1,8 @@
 main:
   - title: Distinguished Artifact Reviewer Award
+    org: The 31st ACM Conference on Computer and Communications Security
+    ref: https://www.sigsac.org/ccs/CCS2024/program/awards.html
+  - title: Distinguished Artifact Reviewer Award
     org: 39th Annual Computer Security Applications Conference
     ref: https://www.acsac.org/2023/files/web/acsac23-programchairs-opening.pdf
   - title: Lakshmi Subramanian CMU-Africa Student Excellence Award
