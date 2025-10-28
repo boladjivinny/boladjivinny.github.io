@@ -16,3 +16,8 @@ tpc:
     conference_short: IMC
     link: https://conferences.sigcomm.org/imc/2025/shadow-tpc/
     years: 2025
+adhoc:
+  - conference: "IEEE Symposium on Security and Privacy"
+    conference_short: IEEE S&P (Oakland)
+    link: https://sp2026.ieee-security.org
+    years: 2026
