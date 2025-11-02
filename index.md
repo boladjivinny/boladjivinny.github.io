@@ -5,7 +5,8 @@ layout: homepage
 ## About Me
 
 I am a fourth-year Ph.D. student in the [COEUS lab](https://astrolavos.gatech.edu/) at the [Georgia Institute of Technology](https://https://ece.gatech.edu/), where I am 
-fortunate enough to be advised by [Fabian Monrose](https://fabianmonrose.github.io/). My research aims to help organizations 
+fortunate enough to be advised by [Fabian Monrose](https://fabianmonrose.github.io/). I also work closely with [Michael Bailey](https://faculty.cc.gatech.edu/~mbailey/).
+My research aims to help organizations 
 with limited cybersecurity resources better protect their 
 digital assets. My current work tackles this problem from the 
 perspective of domain name abuse.
