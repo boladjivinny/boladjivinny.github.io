@@ -13,7 +13,7 @@ aec:
     years: 2023
 tpc:
   - conference: "The ACM Web Conference (Security & Privacy Track)"
-    conference_short: WebConf (ex. WWW)
+    conference_short: WebConf, ex WWW
     link: https://www2026.thewebconf.org/index.html
     years: 2026
   - conference: "ACM Internet Measurement Conference (Shadow TPC)"
