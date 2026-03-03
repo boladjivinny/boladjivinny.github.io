@@ -12,7 +12,11 @@ aec:
     link: https://www.acsac.org/
     years: 2023
 tpc:
-  - conference: "ACM Internet Measurement Conference Shadow TPC"
+  - conference: "The ACM Web Conference (Security & Privacy Track)"
+    conference_short: WebConf (ex. WWW)
+    link: https://www2026.thewebconf.org/index.html
+    years: 2026
+  - conference: "ACM Internet Measurement Conference (Shadow TPC)"
     conference_short: IMC
     link: https://conferences.sigcomm.org/imc/2025/shadow-tpc/
     years: 2025

@@ -1,26 +1,26 @@
 main:
-  - title: "Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century’s Worth of Squabbles"
+  - title: "Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century's Worth of Squabbles"
     authors: <strong>Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Alberto Dainotti, Michael Bailey, Fabian Monrose
     conference_short: NDSS
-    conference: Network and Distributed System Security Symposium, 2026 (to appear).
-    pdf: https://coeus-center.com/articles/Manuscript_UDRP_final.pdf
+    conference: Network and Distributed System Security Symposium, 2026.
+    pdf: assets/papers/UDRP-Trust_NDSS2026.pdf
   - title: "From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains"
     authors: Athanasios Avgetidis, Aaron Faulkenberry, <strong>Vinny Adjibi</strong>, Tillson Galloway, Panagiotis Kintis, Omar Alrawi, Zane Ma, Fabian Monrose, Angelos D Keromytis, Roberto Perdisci, Manos Antonakakis
     conference_short: RAID
     conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses, 2025.
-    pdf: https://fabianmonrose.github.io/papers/atropos.pdf
+    pdf: assets/papers/Atropos_RAID2025.pdf
   - title: "ContractTrace: Retracing Smart Contract Versions for Security Analyses"
     authors: Fatou Ndiaye Mbodji, <strong>Boladji Vinny Adjibi</strong>, Moustapha Awwalou Diouf, Gervais Mendy, Kui Liu, Jacques Klein, Tegawendé F Bissyandé
     conference_short: C4D
     conference: Cybersecurity4D, 2025.
-    pdf: https://paicta.co/wp-content/uploads/2025/08/C4D2025_camera_8071.pdf
+    pdf: assets/papers/ContractTrace_C4D2025.pdf
   - title: "The Guardians of Name Street: Studying the Defensive Registration Practices of the Fortune 500"
     authors: <strong>Boladji Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Michael Bailey, Fabian Monrose
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium, 2025.
-    pdf: https://www.ndss-symposium.org/ndss-paper/the-guardians-of-name-street-studying-the-defensive-registration-practices-of-the-fortune-500/
+    pdf: assets/papers/GuardiansOfNameStreet_NDSS2025.pdf
   - title: "The Devil is in the Details: Unwrapping the Cryptojacking Malware Ecosystem on Android"
     authors: <strong>Boladji Vinny Adjibi</strong>, Fatou N'diaye Mbodji, Tegawendé F. Bissyandé, Kevin Allix, Jacques Klein
     conference_short: SCAM
     conference: IEEE 22nd International Working Conference on Source Code Analysis and Manipulation, 2022.
-    pdf: https://orbilu.uni.lu/bitstream/10993/54308/1/Cryptojacking.pdf
+    pdf: assets/papers/Cryptojacking_SCAM2022.pdf
