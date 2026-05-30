@@ -5,17 +5,17 @@ main:
     conference: Proceedings of 21st International Conference on Artificial Intelligence and Law, 2026.
     pdf: assets/papers/Cost_of_Silence_Final_2026.pdf
     bibtex: | 
-    \@InProceedings{
-      Adjibi2026, 
-      author = {Adjibi, Vinny and Kleiman, Kathryn and Bailey, Michael and Monrose, Fabian}, 
-      booktitle = {Proceedings of the 21st International Conference on Artificial Intelligence and Law},
-      title = {The Cost of Silence: Quantifying the prejudice of non-participation in domain name disputes},
-      year = {2026 (to appear)},
-      month = june,
-      address = {Singapore, Singapore},
-      publisher = {ACM},
-      numpages = 10
-    }
+      @InProceedings{
+        Adjibi2026, 
+        author = {Adjibi, Vinny and Kleiman, Kathryn and Bailey, Michael and Monrose, Fabian}, 
+        booktitle = {Proceedings of the 21st International Conference on Artificial Intelligence and Law},
+        title = {The Cost of Silence: Quantifying the prejudice of non-participation in domain name disputes},
+        year = {2026 (to appear)},
+        month = june,
+        address = {Singapore, Singapore},
+        publisher = {ACM},
+        numpages = 10
+      }
   - title: "Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century's Worth of Squabbles"
     authors: <strong>Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Alberto Dainotti, Michael Bailey, Fabian Monrose
     conference_short: NDSS
