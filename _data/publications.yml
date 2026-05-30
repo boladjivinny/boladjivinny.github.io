@@ -5,39 +5,99 @@ main:
     conference: Proceedings of 21st International Conference on Artificial Intelligence and Law, 2026.
     pdf: assets/papers/Cost_of_Silence_Final_2026.pdf
     bibtex: | 
-      @InProceedings{
-        Adjibi2026, 
-        author = {Adjibi, Vinny and Kleiman, Kathryn and Bailey, Michael and Monrose, Fabian}, 
+      @InProceedings{Adjibi2026, 
+        author    = {Adjibi, Vinny and Kleiman, Kathryn and Bailey, Michael and Monrose, Fabian}, 
         booktitle = {Proceedings of the 21st International Conference on Artificial Intelligence and Law},
-        title = {The Cost of Silence: Quantifying the prejudice of non-participation in domain name disputes},
-        year = {2026 (to appear)},
-        month = june,
-        address = {Singapore, Singapore},
+        title     = {The Cost of Silence: Quantifying the prejudice of non-participation in domain name disputes},
+        year      = {2026 (to appear)},
+        month     = jun,
+        address   = {Singapore, Singapore},
         publisher = {ACM},
-        numpages = 10
+        numpages  = 10
       }
   - title: "Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century's Worth of Squabbles"
     authors: <strong>Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Alberto Dainotti, Michael Bailey, Fabian Monrose
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium, 2026.
     pdf: assets/papers/UDRP-Trust_NDSS2026.pdf
+    bibtex: |
+      @InProceedings{Adjibi2026,
+        author    = {Adjibi, Vinny and Avgetidis, Athanasios and Antonakakis, Manos and Dainotti, Alberto and Bailey, Michael and Monrose, Fabian},
+        booktitle = {Proceedings of the 33rd Annual Network and Distributed System Security Symposium},
+        title     = {Repairing trust in domain name disputes practices: Insights from a quarter-century's worth of squabbles},
+        year      = {2026},
+        month     = feb,
+        address   = {San Diego, CA, USA},
+        publisher = {Internet Society},
+        numpages  = {18},
+        doi       = {10.14722/ndss.2026.230174}
+      }
   - title: "From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains"
     authors: Athanasios Avgetidis, Aaron Faulkenberry, <strong>Vinny Adjibi</strong>, Tillson Galloway, Panagiotis Kintis, Omar Alrawi, Zane Ma, Fabian Monrose, Angelos D Keromytis, Roberto Perdisci, Manos Antonakakis
     conference_short: RAID
     conference: The 28th International Symposium on Research in Attacks, Intrusions and Defenses, 2025.
     pdf: assets/papers/Atropos_RAID2025.pdf
+    bibtex: |
+      @InProceedings{Avgetidis2025,
+        author = {Avgetidis, Athanasios and Faulkenberry, Aaron and Adjibi, Vinny and Galloway, Tillson and Kintis, Panagiotis and Alrawi, Omar, and Ma, Zane and Monrose, Fabian and Keromytis, Angelos D. and Perdisci, Roberto and Antonakakis, Manos}
+        booktitle = {28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)},
+        title = {From concealment to exposure: Understanding the lifecycle and infrastructure of {APT} domains},
+        year = {2025},
+        publisher = {IEEE},
+        address = {Gold Coast, Australia},
+        month = oct,
+        pages = {488-505},
+        doi = {10.1109/RAID67961.2025.00041}
+      }
   - title: "ContractTrace: Retracing Smart Contract Versions for Security Analyses"
     authors: Fatou Ndiaye Mbodji, <strong>Boladji Vinny Adjibi</strong>, Moustapha Awwalou Diouf, Gervais Mendy, Kui Liu, Jacques Klein, Tegawendé F Bissyandé
     conference_short: C4D
     conference: Cybersecurity4D, 2025.
     pdf: assets/papers/ContractTrace_C4D2025.pdf
+    bibtex: |
+      @InProceedings{Mbodji2025,
+        author    = {Mbodji, Fatou Ndiaye and Adjibi, Boladji Vinny and Diouf, Moustapha Awwalou and Mendy, Gervais and Liu, Kui and Klein, Jacques and Bissyandé, Tegawendé F.},
+        booktitle = {2025 Cybersecurity4D (C4D)},
+        title     = {{ContractTrace}: Retracing smart contract versions for security analyses},
+        year      = {2025},
+        address   = {Gqeberha, South Africa},
+        month     = aug,
+        pages     = {1--10},
+        publisher = {IEEE},
+        doi       = {10.1109/C4D65382.2025.11306473},
+      }
   - title: "The Guardians of Name Street: Studying the Defensive Registration Practices of the Fortune 500"
     authors: <strong>Boladji Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Michael Bailey, Fabian Monrose
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium, 2025.
     pdf: assets/papers/GuardiansOfNameStreet_NDSS2025.pdf
+    bibtex: |
+      @InProceedings{Adjibi2025,
+        author    = {Adjibi, {Boladji Vinny} and Avgeditis, Athanasios and Antonakakis, Manos and Bailey, Michael and Monrose, Fabian},
+        booktitle = {Proceedings of the Annual Network and Distributed System Security Symposium},
+        title     = {The guardians of name street: Studying the defensive registration practices of the {Fortune} 500},
+        year      = {2025},
+        month     = feb,
+        address   = {San Diego, CA, USA},
+        publisher = {Internet Society},
+        doi       = {10.14722/ndss.2025.241202},
+        numpages  = 18
+      }
   - title: "The Devil is in the Details: Unwrapping the Cryptojacking Malware Ecosystem on Android"
     authors: <strong>Boladji Vinny Adjibi</strong>, Fatou N'diaye Mbodji, Tegawendé F. Bissyandé, Kevin Allix, Jacques Klein
     conference_short: SCAM
     conference: IEEE 22nd International Working Conference on Source Code Analysis and Manipulation, 2022.
     pdf: assets/papers/Cryptojacking_SCAM2022.pdf
+    bibtex: |
+      @InProceedings{Adjibi2022,
+        author    = {Adjibi, Boladji Vinny and Mbodji, Fatou Ndiaye and Bissyandé, Tegawendé F. and Allix, Kevin and Klein, Jacques},
+        booktitle = {2022 IEEE 22nd International Working Conference on Source Code Analysis and Manipulation (SCAM)},
+        title     = {The devil is in the details: Unwrapping the cryptojacking malware ecosystem on android},
+        year      = {2022},
+        address   = {Limassol, Cyprus},
+        month     = oct,
+        pages     = {153--163},
+        publisher = {IEEE},
+        doi       = {10.1109/SCAM55253.2022.00023},
+        keywords  = {Operating systems;Source coding;Ecosystems;Writing;Malware;Internet;Safety;android;cryptojacking;malware;manual analysis;google play store},
+      }
