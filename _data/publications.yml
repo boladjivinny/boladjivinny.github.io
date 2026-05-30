@@ -15,6 +15,7 @@ main:
         publisher = {ACM},
         numpages  = 10
       }
+    artifacts: https://doi.org/10.5281/zenodo.19594586
   - title: "Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century's Worth of Squabbles"
     authors: <strong>Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Alberto Dainotti, Michael Bailey, Fabian Monrose
     conference_short: NDSS
@@ -32,6 +33,7 @@ main:
         numpages  = {18},
         doi       = {10.14722/ndss.2026.230174}
       }
+    artifacts: https://doi.org/10.5281/zenodo.15750502
   - title: "From Concealment to Exposure: Understanding the Lifecycle and Infrastructure of APT Domains"
     authors: Athanasios Avgetidis, Aaron Faulkenberry, <strong>Vinny Adjibi</strong>, Tillson Galloway, Panagiotis Kintis, Omar Alrawi, Zane Ma, Fabian Monrose, Angelos D Keromytis, Roberto Perdisci, Manos Antonakakis
     conference_short: RAID
@@ -49,6 +51,7 @@ main:
         pages = {488-505},
         doi = {10.1109/RAID67961.2025.00041}
       }
+    artifacts: https://github.com/Astrolavos/Atropos/
   - title: "ContractTrace: Retracing Smart Contract Versions for Security Analyses"
     authors: Fatou Ndiaye Mbodji, <strong>Boladji Vinny Adjibi</strong>, Moustapha Awwalou Diouf, Gervais Mendy, Kui Liu, Jacques Klein, Tegawendé F Bissyandé
     conference_short: C4D
@@ -66,6 +69,7 @@ main:
         publisher = {IEEE},
         doi       = {10.1109/C4D65382.2025.11306473},
       }
+    artifacts: https://github.com/mad975/sclineages
   - title: "The Guardians of Name Street: Studying the Defensive Registration Practices of the Fortune 500"
     authors: <strong>Boladji Vinny Adjibi</strong>, Athanasios Avgetidis, Manos Antonakakis, Michael Bailey, Fabian Monrose
     conference_short: NDSS
@@ -83,6 +87,7 @@ main:
         doi       = {10.14722/ndss.2025.241202},
         numpages  = 18
       }
+    artifacts: https://doi.org/10.5281/zenodo.16954716
   - title: "The Devil is in the Details: Unwrapping the Cryptojacking Malware Ecosystem on Android"
     authors: <strong>Boladji Vinny Adjibi</strong>, Fatou N'diaye Mbodji, Tegawendé F. Bissyandé, Kevin Allix, Jacques Klein
     conference_short: SCAM
