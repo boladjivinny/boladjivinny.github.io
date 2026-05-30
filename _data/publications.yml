@@ -4,8 +4,8 @@ main:
     conference_short: ICAIL
     conference: Proceedings of 21st International Conference on Artificial Intelligence and Law, 2026.
     pdf: assets/papers/Cost_of_Silence_Final_2026.pdf
-    bibtex: > 
-    @InProceedings{
+    bibtex: | 
+    \@InProceedings{
       Adjibi2026, 
       author = {Adjibi, Vinny and Kleiman, Kathryn and Bailey, Michael and Monrose, Fabian}, 
       booktitle = {Proceedings of the 21st International Conference on Artificial Intelligence and Law},
