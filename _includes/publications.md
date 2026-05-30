@@ -23,7 +23,8 @@
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       {% endif %}
       {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <button class="btn btn-sm z-depth-0" style="font-size:12px;" onclick="toggleBibtex(this)">BibTex</button>
+      <div class="bibtex-content" style="display:none; margin-top: 10px; padding: 10px; background-color: #f5f5f5; border: 1px solid #ddd; border-radius: 4px; max-height: 200px; overflow-y: auto; font-family: monospace; font-size: 11px; white-space: pre-wrap; word-break: break-word;">{{ link.bibtex }}</div>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
